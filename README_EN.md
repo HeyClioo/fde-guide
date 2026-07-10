@@ -36,7 +36,7 @@ FDE is not a new job title — it is a **capability set**. This guide breaks it 
 
 ## About the author
 
-**HeyClio** — Enterprise AI product manager / FDE practitioner.
+**Clio** — Enterprise AI product manager / FDE practitioner.
 
 Key products delivered: AI test automation (500 test cases at 86% measured accuracy), an AI business dashboard (31 cards + closed-loop risk alerts), enterprise knowledge-base bots, and n8n automation workflows.
 
